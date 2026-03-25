@@ -26,6 +26,9 @@ pids
 *.seed
 *.pid.lock
 
+# Dependencies
+zxp/
+
 # Node.js
 node_modules/
 jspm_packages/
